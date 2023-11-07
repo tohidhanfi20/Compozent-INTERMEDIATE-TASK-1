@@ -29,5 +29,5 @@ Step 3 - Fill the details according to you
       + Type - Linux
       + Click Next
 
-<img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/Create%20ENV.png>      
+<img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/config%20VM.png>      
 
