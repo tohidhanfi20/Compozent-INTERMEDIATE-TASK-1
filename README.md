@@ -48,6 +48,12 @@ Step 7 - Then Our Machine is ready to be launched in our Oracle virtualBox Envir
 
 <img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/Ready%20to%20use.png> 
 
+Step 8 - Click on the start Instance. This Pop up will come up
+
+<img width="800" height="600" src=> 
+
+
+
 
 
 
