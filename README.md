@@ -48,7 +48,11 @@ Step 7 - Then Our Machine is ready to be launched in our Oracle virtualBox Envir
 
 <img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/Ready%20to%20use.png> 
 
-Step 8 - Click on the start Instance. This Pop up will come up
+Step 8 - Click on the start Instance. This Pop up will come up click on the Install button to install your virtual instance.
+
+<img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/install%20memu.png> 
+
+Step 9 - This installation setup will come on the screen.
 
 <img width="800" height="600" src=> 
 
