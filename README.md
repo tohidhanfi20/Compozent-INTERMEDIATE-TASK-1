@@ -40,6 +40,6 @@ Step 5 - To Create a Virtual Harddisk If you want to save your state of work
 
 <img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/VHD.png> 
 
-Step 6 - The Summary of the Virtual Machine will appear which we have configured
+Step 6 - The Summary of the Virtual Machine will appear which we have configured. Then Click Finish
 
 <img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/Summary.png> 
