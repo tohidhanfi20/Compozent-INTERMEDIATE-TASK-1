@@ -32,7 +32,10 @@ Step 3 - Fill the details according to you
 
 <img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/config%20VM.png>      
 
-Step 4 - Hardware configurations like amount of RAM and virtual CPU count.
+Step 4 - Hardware configurations like amount of RAM and virtual CPU count. Click Next
 
 <img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/hardware%20config.png>   
 
+Step 5 - To Create a Virtual Harddisk If you want to save your state of work
+
+<img width="800" height="600" src=> 
