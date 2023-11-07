@@ -32,3 +32,7 @@ Step 3 - Fill the details according to you
 
 <img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/config%20VM.png>      
 
+Step 4 - Hardware configurations like amount of RAM and virtual CPU count.
+
+<img width="800" height="600" src=>   
+
