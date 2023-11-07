@@ -24,6 +24,7 @@ Step 2 - Create a new Virtual Environment and download an ISO Image of your own 
 LINK - https://www.linux.org/pages/download/
 
 Step 3 - Fill the details according to you 
+
          + Name - CentOs instance
          + iso image - Locate the image where have you downloaded
          + Type - Linux
