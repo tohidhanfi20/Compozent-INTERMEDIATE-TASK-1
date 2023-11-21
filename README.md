@@ -68,6 +68,9 @@ Step 12 - Here we are to welcome screen CentOs choose your language.
 
 <img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/language.png>
 
+Step 13 - We are into the Homescreen of CentOs-07 and we into virtual Environment of virtualBox
+
+<img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/Homescreen.png>
 
 
 
@@ -82,3 +85,4 @@ Step 12 - Here we are to welcome screen CentOs choose your language.
 
 
 
+ 
