@@ -66,7 +66,7 @@ Step 11 - Set Root passwords for the Account and user if need it.
 
 Step 12 - Here we are to welcome screen CentOs choose your language.
 
-<img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/language.png)>
+<img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/language.png>
 
 
 
