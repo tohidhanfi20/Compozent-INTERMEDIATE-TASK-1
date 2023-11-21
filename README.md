@@ -60,7 +60,9 @@ Step 10 - Complete the installation prerequisite
 
 <img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/Installation%20prerequisits.png>
 
+Step 11 - Set Root passwords for the Account and user if need it.
 
+<img width="800" height="600" src=https://github.com/tohidhanfi20/Compozent-Tasks/blob/main/Screenshots/root%20psswd.png>
 
 
 
