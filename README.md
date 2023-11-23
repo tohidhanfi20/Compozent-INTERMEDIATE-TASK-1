@@ -1,17 +1,5 @@
 # Compozent-Tasks
 
-BASIC TASK 1 - Create a basic CI/CD pipeline: Build a basic CI/CD pipeline using tools
-like Jenkins, Git, and Docker.
-
-Step - 1 
-
-
-
-
-
-
-
-
 INTERMEDIATE TASK 1 - Set up a virtual environment: Configure a virtual environment using
 tools like VirtualBox or Vagrant.
 
