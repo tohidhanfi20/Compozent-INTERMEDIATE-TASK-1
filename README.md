@@ -1,4 +1,4 @@
-# Compozent-Tasks
+# Compozent-INTERMEDIATE-TASK-1
 
 INTERMEDIATE TASK 1 - Set up a virtual environment: Configure a virtual environment using
 tools like VirtualBox or Vagrant.
